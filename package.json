@@ -1,0 +1,25 @@
+{
+  "name": "redis-rate-limitter",
+  "version": "0.0.1",
+  "description": "Redis based API rate limitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeroboo/nodejs-redis-rate-limitter.git"
+  },
+  "keywords": [
+    "redis",
+    "rate-limitter",
+    "rate",
+    "limitter"
+  ],
+  "author": "zeroboo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeroboo/nodejs-redis-rate-limitter/issues"
+  },
+  "homepage": "https://github.com/zeroboo/nodejs-redis-rate-limitter#readme"
+}
